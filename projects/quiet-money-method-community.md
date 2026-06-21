@@ -21,7 +21,7 @@ The public Quiet Money Method page was built with agentic AI-assisted developmen
 
 Cindy does not provide financial advice or personalized trade recommendations.
 
-## Relevant Skills
+## Skills Used
 
 - Trading education workflows
 - Community operations
@@ -31,3 +31,7 @@ Cindy does not provide financial advice or personalized trade recommendations.
 - Member onboarding
 - Support workflows
 - Documentation and SOPs
+- Automation workflow design
+- Affiliate tracking workflows
+- Product delivery workflows
+- AI-assisted content and process development

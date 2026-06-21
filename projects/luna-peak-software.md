@@ -19,9 +19,12 @@ The live sites were built with agentic AI-assisted development, human review, an
 
 Trading tools do not only need code. They need clean product delivery, support systems, documentation, onboarding workflows, release validation, and practical user feedback loops. Luna Peak Software is where these pieces come together.
 
-## Relevant Skills
+## Skills Used
 
 - AI-assisted development
+- Agentic AI product development
+- OpenClaw-based AI agent workspace setup and monitoring
+- Human-in-the-loop review workflows
 - Trading workflows
 - Webhook concepts
 - Support infrastructure
@@ -30,3 +33,5 @@ Trading tools do not only need code. They need clean product delivery, support s
 - GitHub
 - Release validation
 - Customer success workflows
+- Product documentation
+- Small-business platform operations

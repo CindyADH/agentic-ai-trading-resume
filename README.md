@@ -32,6 +32,15 @@ These sites and project surfaces were built with agentic AI-assisted development
 - [Centsible Future](https://centsiblefuture.com)
 - [Quiet Money Method](https://cindyanntrades.com/qmm)
 
+## Selected Skills by Project
+
+| Project | Skills Used |
+| --- | --- |
+| [Pandora](projects/pandora.md) | Agentic trading workflows, futures market context, structured telemetry, risk workflow concepts, human-in-the-loop review |
+| [Luna Peak Software](projects/luna-peak-software.md) | AI-assisted development, product operations, support infrastructure, Supabase, Cloudflare, GitHub, release validation |
+| [Quiet Money Method Community](projects/quiet-money-method-community.md) | Community operations, Discord and Telegram workflows, GoHighLevel, Whop, onboarding, support systems, SOPs |
+| [QA/SDET Foundation](projects/qa-sdet-foundation.md) | Cypress, Playwright, Jenkins, Jira, Postman, regression testing, smoke testing, bug triage |
+
 ## Technical Toolkit
 
 ### AI and Automation
@@ -39,6 +48,7 @@ These sites and project surfaces were built with agentic AI-assisted development
 - Claude, Claude Code, OpenAI, prompt design, AI-assisted development, AI tool evaluation
 - Agentic workflows, workflow automation, internal tooling, process automation
 - Make, SOP automation, support workflow design, onboarding workflow design
+- OpenClaw-based AI agent workspace setup, monitoring, task routing, and human-in-the-loop agent review
 
 ### Trading and Market Tools
 

@@ -20,7 +20,7 @@ Pandora is ongoing work on an agentic trader model and structured trading workfl
 - Pandora is not presented as a live trade execution bot.
 - Pandora does not provide investment advice or personalized financial advice.
 
-## Relevant Skills
+## Skills Used
 
 - Agentic workflows
 - Futures trading workflows
@@ -29,3 +29,6 @@ Pandora is ongoing work on an agentic trader model and structured trading workfl
 - Trader dashboards
 - Risk workflow concepts
 - AI-assisted product development
+- AI agent monitoring concepts
+- Prompt design for structured market review
+- Workflow design for missing-context checks and decision discipline
