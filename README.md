@@ -23,6 +23,15 @@ I understand the user side of futures trading and prop firm workflows because I 
 | [Quiet Money Method Community](projects/quiet-money-method-community.md) | Education systems + member workflows | Supports trading education, community structure, and internal tool improvement |
 | [QA/SDET Foundation](projects/qa-sdet-foundation.md) | Cypress, Playwright, Jenkins, SQL, API testing | Adds release-quality discipline to AI and automation builds |
 
+## Live Sites Built With Agentic AI
+
+These sites and project surfaces were built with agentic AI-assisted development, human review, and hands-on product direction.
+
+- [Luna Peak Software](https://lunapeaksoftware.com)
+- [Luna Peak Copier](https://lunapeakcopier.com)
+- [Centsible Future](https://centsiblefuture.com)
+- [Quiet Money Method](https://cindyanntrades.com/qmm)
+
 ## Technical Toolkit
 
 ### AI and Automation
@@ -61,6 +70,7 @@ I understand the user side of futures trading and prop firm workflows because I 
 
 **Founder/CEO** | May 2026 to Present | Galloway, NJ, Remote
 
+- Site: [lunapeakcopier.com](https://lunapeakcopier.com)
 - Building trading-adjacent tools and workflow systems for trader support, automation, and product operations.
 - Supporting product direction, technical planning, and customer workflow design.
 
@@ -68,6 +78,7 @@ I understand the user side of futures trading and prop firm workflows because I 
 
 **Founder/CEO** | Apr 2026 to Present | Galloway, NJ, Remote
 
+- Site: [lunapeaksoftware.com](https://lunapeaksoftware.com)
 - Building a small software company focused on trading tools, workflow automation, support systems, and AI-assisted product infrastructure.
 - Developing support and delivery infrastructure for small software products.
 - Exploring AI-assisted tooling for strategy review, product support, documentation, and user workflows.
@@ -78,6 +89,7 @@ I understand the user side of futures trading and prop firm workflows because I 
 
 Previously Fractional Director of Technology and Operations. Current fractional CTO/Ops role began Jan 2026.
 
+- Quiet Money Method: [cindyanntrades.com/qmm](https://cindyanntrades.com/qmm)
 - Oversee technology, operations, automation, content systems, and internal workflows for a very small trading education, automation, and community business.
 - Built automation systems across GoHighLevel, Discord, Telegram, and Whop to streamline onboarding, affiliate tracking, product delivery, and support workflows.
 - Managed deployment and support workflows for proprietary indicators, bots, and educational tools across TradingView, NinjaTrader 8, and MT4/MT5 contexts.
@@ -89,6 +101,7 @@ Previously Fractional Director of Technology and Operations. Current fractional 
 
 **Co-Founder** | Nov 2025 to Present | Remote
 
+- Site: [cindyanntrades.com/qmm](https://cindyanntrades.com/qmm)
 - Support education, content systems, internal tools, community systems, and member success workflows.
 - Help organize trading education resources for learning and consistency.
 - Cindy does not provide financial advice or personalized trade recommendations.

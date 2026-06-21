@@ -1,9 +1,12 @@
 # Luna Peak Software
 
 **Dates:** Apr 2026 to Present  
+**Live sites:** [lunapeaksoftware.com](https://lunapeaksoftware.com), [lunapeakcopier.com](https://lunapeakcopier.com)  
 **Repository:** Repository coming soon
 
 Luna Peak Software is a small software company focused on trading tools, workflow automation, support systems, and AI-assisted product infrastructure.
+
+The live sites were built with agentic AI-assisted development, human review, and hands-on product direction.
 
 ## Project Focus
 

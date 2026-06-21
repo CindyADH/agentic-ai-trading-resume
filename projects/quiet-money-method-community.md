@@ -2,9 +2,12 @@
 
 **Dates:** Nov 2025 to Present  
 **Associated with:** Firestorm Trading Academy / Quiet Money Method  
+**Live site:** [cindyanntrades.com/qmm](https://cindyanntrades.com/qmm)  
 **Repository:** Documentation-first project page
 
 Quiet Money Method is a community education and member workflow project for trading education. The work centers on educational content, member systems, internal tools, community structure, and operational workflows.
+
+The public Quiet Money Method page was built with agentic AI-assisted development, human review, and hands-on product direction.
 
 ## Project Focus
 
